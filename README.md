@@ -5,4 +5,4 @@ A executable that Downloads and Installs the Latest Version of Microsoft OneDriv
 - Python:
   - pyqt
   - pyinstaller
-<img width=20% src="src="https://github.com/stephengearhart/Easy_OneDrive_Setup/blob/main/Gallery/Screenshot_%231.png?raw=true"></img>
+<img width="20%" src="src="https://github.com/stephengearhart/Easy_OneDrive_Setup/blob/main/Gallery/Screenshot_%231.png?raw=true"/>
